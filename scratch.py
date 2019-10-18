@@ -83,3 +83,5 @@ for n in range(0,60):
     for x in cat2:
         print('\033[97m' + x + '\033[0;0m')
     sleep(0.5)
+    
+    # author: Valtercio Junior
